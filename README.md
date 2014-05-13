@@ -1,0 +1,4 @@
+misanthropy
+===========
+
+Misanthropic Design collaboration
